@@ -1,0 +1,7 @@
+
+Outer 	Inner	DB
+
+False 	False 	both data Saved
+True 	True 	no data saved
+True 	False 	inner data saved
+False 	True 	no data saved
